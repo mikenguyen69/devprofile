@@ -3,11 +3,11 @@ A simple, responsive, single-page portfolio and resume for developers built with
 
 View the [demo here](https://mikenguyen69.github.io/resume/).
 
-### Desktop version
+<!-- ### Desktop version
 <img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-desktop.gif" />
 
 ### Responsive version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-responsive.gif" height="485" />
+<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-responsive.gif" height="485" /> -->
 
 ## Setup
 
